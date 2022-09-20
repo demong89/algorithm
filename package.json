@@ -4,7 +4,7 @@
   "description": "message格式 ``` <type>(<scope>): <subject> // 空一行 <body> // 空一行 <footer> ``` 分别对应 Commit message 的三个部分：Header，Body 和 Footer。",
   "main": "index.js",
   "scripts": {
-    "git": "git add . && cm_addlongname && git push",
+    "git": "git status && git add . && cm_addlongname && git push",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
