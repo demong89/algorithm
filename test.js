@@ -17,3 +17,5 @@ var bar = new Foo()
 for(key in bar){
   console.log(`index:${key}  value:${bar[key]}`)
 }
+
+// 快慢
