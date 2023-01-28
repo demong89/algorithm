@@ -22,7 +22,11 @@
 ![](./img/8.png)
 ![](./img/9.png)
 ![](./img/10.png)
-![](./img/11.png)
+![](./img/11.png)？                                       
+
+
+
+
 ![](./img/12.png)
 
 
@@ -54,4 +58,4 @@ s2 = '....A'
 * 理解复杂逻辑的关键
 * 职业进阶的要点要领
 
-[B站 ： mit动态规划](https://www.bilibili.com/video/av53233912?from=search&seid=2847395688604491997)
+[B站 ： mit动态规划](https://www.bilibili.com/video/av53233912?from=search&se？》《M'Nid=2847395688604491997)
