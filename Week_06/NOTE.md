@@ -58,4 +58,16 @@ s2 = '....A'
 * 理解复杂逻辑的关键
 * 职业进阶的要点要领
 
+#### 动态规划关键点
+1、最优子结构 opt[n] = best_if(opt[n-1],opt(n-2),...)
+
+2、存储中间状态 opt[i]
+
+3、递推公式（状态转移方程或者DP方程）
+Fib: opt[i] = opt[n-1]+ opt[n-2]
+二维路径：opt[i,j] = opt[i+1][j] + opt[i][j+1] (且判断a[i,j]是否空地)
+ 
+
 [B站 ： mit动态规划](https://www.bilibili.com/video/av53233912?from=search&se？》《M'Nid=2847395688604491997)
+
+
