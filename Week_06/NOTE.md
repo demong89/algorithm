@@ -70,4 +70,4 @@ Fib: opt[i] = opt[n-1]+ opt[n-2]
 
 [B站 ： mit动态规划](https://www.bilibili.com/video/av53233912?from=search&se？》《M'Nid=2847395688604491997)
 
-
+经验&习惯 -- 多练
